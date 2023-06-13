@@ -1,0 +1,55 @@
+.cabecalho{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,
+    font-size: xx-large;
+}
+
+.corpo{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rodape{
+    background-color: #e5e113;
+    text-align: center;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.foto{
+    width: 160px;
+    height: 160px;
+    box-sizing: border-box;
+    border-radius: 49.9%;
+    border-top-left-radius: 49.9%;
+    border-top-right-radius: 49.9%;
+    border-bottom-right-radius: 49.9%;
+    border-bottom-left-radius: 49.9%;
+}
+
+.redonda{
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkmagenta;
+    color: whitesmoke;
+    text-align: right;
+}
+
+.circle{
+    background-color: #0f2da3;
+    border-radius: 50%;
+}
